@@ -38,30 +38,29 @@
 ### 国际知名临时邮箱服务
 
 0. **tempmailto.online** - 保护您的真实邮箱地址免受垃圾邮件和不必要消息的困扰。即时生成临时邮箱地址，实时接收邮件。
-1. **LinShiYouXiang.net** - 提供10分钟至24小时不等的临时邮箱服务，接收速度快，界面简洁，用户体验优秀。
-2. **Temp-Mail.org** - 全球知名临时邮箱服务，提供多语言支持，拦截垃圾邮件效果显著。
-3. **Tempm.com** - 支持自定义域名的临时邮箱服务，实时自动接收邮件，操作简便。
-4. **Internxt** - 注重隐私保护的临时邮箱服务，提供完整收件箱功能，安全性高。
-5. **Mail.tm** - 速度快、界面友好的临时邮箱服务，无需注册即可使用，防垃圾邮件效果出色。
-6. **TempMail.Plus** - 多语言支持，允许自定义邮箱前缀和域名，提供TOR镜像访问选项，隐私保护更全面。
 
-### 中文友好临时邮箱服务
 
-7. **linshi-email.com** - 中文界面，操作简单，专为中国用户设计的临时邮箱服务。
-8. **temp-mail.io** - 提供中文支持的一次性邮件服务，保护真实邮箱安全。
-9. **moakt.com** - 功能全面的临时邮箱平台，支持多种邮箱类型。
-10. **linshiguge.com** - 专注提供临时谷歌邮箱服务，支持Gmail和Googlemail格式。
-11. **youxiang.dev** - 一站式邮箱服务平台，包含临时邮箱、Gmail和Outlook等多种类型。
-12. **linshiyou.com** - 提供多种时长选择的临时邮箱，支持自动刷新接收功能。
+###  2025年最新免费临时邮箱服务
 
-### 特色临时邮箱服务
-
-13. **GuerrillaMail** - 60分钟有效期的临时邮箱，处理速度快，无需注册。
-14. **smailpro.com** - 专注于生成一次性Gmail和Outlook邮箱地址，几秒内即可完成。
-15. **22.do** - 简约设计的临时邮箱服务，注重匿名性和安全性。
-16. **emailnator.com** - 提供真实Gmail临时邮箱地址，垃圾邮件过滤效果好。
-17. **rootsh.com** - 支持多种时长的临时邮箱服务，自动刷新接收功能便捷。
-18. **tempmail100.com** - 无需注册的匿名临时邮箱，安全性高，操作简单。
+*    **[tempmailto.online](https://tempmailto.online/)** - 保护您的真实邮箱地址免受垃圾邮件和不必要消息的困扰。即时生成临时邮箱地址，实时接收邮件。
+*   **[LinShiYouXiang.net](https://www.linshiyouxiang.net/)**：提供10分钟邮箱、24小时邮箱等多种临时邮箱服务，快速接收邮件，保护用户隐私。
+*   **[Temp-Mail.org](https://temp-mail.org/zh/)**：提供匿名临时邮箱地址，有效拦截垃圾邮件，保护真实邮箱。
+*   **[Tempm.com](https://tempm.com/)**：无需注册，提供自定义域名临时邮箱，具备实时自动接收邮件等特性。
+*   **[Internxt](https://internxt.com/zh/temporary-email)**：提供匿名、安全、临时的邮箱地址服务，且附带邮件收件箱功能。
+*   **[Mail.tm](https://mail.tm/zh/)**：安全、快速的临时邮箱服务，无需注册，有效防止垃圾邮件和在线滥用。
+*    **[TempMail.Plus](https://tempmail.plus/zh/)**：支持多语言，可自定义邮箱前缀和域名，拥有隐私设置和 TOR 镜像访问。
+*   **[www.linshi-email.com](https://www.linshi-email.com/)**：提供临时邮箱服务，保护真实邮箱免受垃圾邮件侵害。
+*   **[temp-mail.io](https://temp-mail.io/zh)**：一次性邮件服务，能有效保护真实邮箱，匿名且免费。
+*   **[moakt.com](https://moakt.com/zh)**：提供可替代邮箱、临时邮箱等多种服务，功能全面。
+*   **[www.linshiguge.com](https://www.linshiguge.com/)**：提供免费的临时谷歌邮箱，支持Gmail、Googlemail等。
+*   **[GuerrillaMail](https://www.guerrillamail.com/zh/)**：提供持续60分钟的临时邮箱，无需注册，高效处理邮件。
+*   **[youxiang.dev](https://youxiang.dev/mailbox)**：包含临时邮箱、Gmail、Outlook等多种类型，一站式服务。
+*   **[linshiyou.com](https://linshiyou.com/)**：提供10分钟邮箱、24小时邮箱等多种选择，支持自动刷新接收。
+*   **[smailpro.com](https://smailpro.com/temporary-email)**：几秒内生成一次性 Gmail 和 Outlook 邮箱地址。
+*   **[22.do](https://22.do/)**：提供临时、安全、匿名且免费的电子邮件地址。
+*   **[www.emailnator.com](https://www.emailnator.com/)**：提供真实的Gmail临时电子邮件地址，防止垃圾邮件。
+*  **[rootsh.com](https://rootsh.com/)**：提供临时邮箱、10分钟邮箱等服务，支持自动刷新接收。
+*  **[tempmail100.com](https://tempmail100.com/zh-cn/)**：无需注册，提供安全、匿名的临时邮箱。
 
 ## 如何选择最适合您的临时邮箱服务？
 
